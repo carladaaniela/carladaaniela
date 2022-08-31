@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carla Daniela Sosa! 
-- 🌱 I'm 26 years old.
-- 👀 I live in Buenos Aires, Argentina.
-- 🌱 I'm currently a React frontend development student.
+- 🙎🏽‍♀️ I'm 26 years old.
+- 🌆 I live in Buenos Aires, Argentina.
+- 🤓 I'm currently a React frontend development student.
 
 
 <!---
