@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Carla Daniela Sosa! 
 - 🙎🏽‍♀️ I'm 28 years old.
 - 🌆 I live in Buenos Aires, Argentina.
-- 🤓 I'm currently a React frontend development student.
-
+- 🤓 Frontend Development Skills (JS/React).
+- 🖊️ UX/UI Designer.
 
 <!---
 carladaaniela/carladaaniela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
